@@ -26,7 +26,7 @@ Basic arithmetic logic
 User experience (UX) feedback with messagebox
 
 📸 GUI Preview
-
+![Image](https://github.com/user-attachments/assets/bb824a18-7bda-493f-a8b6-d8f559cbf207)
 
 🔧 Requirements
 Python 3.x
